@@ -1,0 +1,1 @@
+# netfarma_item_setup_sc_johnson-ts-generator
